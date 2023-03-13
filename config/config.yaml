@@ -1,0 +1,16 @@
+imap:
+  nome_anexo: planilha_processo_rh.xlsx
+  pasta_inicial_email: INBOX
+  assunto_filtro : RPA - MESHME
+  host : imap.gmail.com
+  usuario: inserir email aqui
+  key : 'rpa123'
+  senha : inserir senha criptografada aqui
+smtp:
+  email_adm_meshme: inserir email aqui
+  host : "smtp.gmail.com: 587"
+  usuario: inserir email aqui
+  key : 'rpa123'
+  senha : inserir senha criptografada aqui
+api:
+  url_default: http://127.0.0.1:5000
